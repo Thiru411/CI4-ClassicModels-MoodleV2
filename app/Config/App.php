@@ -24,7 +24,7 @@ class App extends BaseConfig
      *
      * @var string
      */
-    public $baseURL = 'http://localhost:80/CI4-ClassicModels-MoodleV2/public/';
+    public $baseURL = 'http://localhost:81/CI4-ClassicModels-MoodleV2/public/';
 
     public $css = 'CI4-ClassicModels-MoodleV2/public/assets/css/default.css'; 
     public $img = 'CI4-ClassicModels-MoodleV2/public/assets/images';
